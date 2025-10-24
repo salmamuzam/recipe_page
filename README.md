@@ -1,24 +1,8 @@
 # Chicken Lasagne Recipe Page
 
-A simple, elegant HTML recipe page showcasing a delicious Chicken Lasagne recipe that I built as part of the freeCodeCamp curriculum.
-
 ## Project Description
 
 This project is a static recipe page that presents a complete Chicken Lasagne recipe with ingredients and step-by-step instructions. 
-
-**What my application does:**
-
-My recipe page displays a well-structured cooking guide that includes an introduction to the dish, a beautiful image of the finished meal, organized ingredient lists separated by preparation stage (chicken mixture, sauce, and assembly), and detailed step-by-step cooking instructions with proper credit to the original source.
-
-**Why I used these technologies:**
-
-I used pure HTML5 to focus on learning semantic structure and proper document markup. I chose inline CSS for quick styling to keep the project simple and focused on HTML basics. I didn't need JavaScript since a recipe page is static content that doesn't require interactivity, making it perfect for practicing HTML-only development.
-
-**Challenges I faced and features I hope to add in the future:**
-
-The main challenges I faced were organizing multiple ingredient sections in a clear, easy-to-read format while meeting all 21 freeCodeCamp test requirements and balancing visual appeal with semantic HTML structure.
-
-In the future, I hope to add an external CSS stylesheet for better style organization, create a print-friendly layout for easy recipe printing, include recipe details like prep time and servings, add a nutritional information calculator, add a user rating and comments section, and create a recipe scaling calculator for different serving sizes.
 
 ## Table of Contents
 
@@ -64,12 +48,6 @@ Simply open the HTML file in any modern web browser to view the recipe page.
    - Seven detailed cooking instruction steps
    - Recipe credit and link to original source
 
-**What you can use this for:**
-- Learning HTML document structure
-- Understanding semantic HTML elements
-- Creating your own recipe pages
-- Teaching HTML basics to beginners
-
 **Screenshot:**
 
 ![Recipe Page Screenshot](https://github.com/user-attachments/assets/bafec3c5-e063-4bb1-9083-30357157be6f)
@@ -84,22 +62,11 @@ Simply open the HTML file in any modern web browser to view the recipe page.
 - freeCodeCamp - Project Requirements and Testing Suite
 
 **Developer:**
-- Salma Muzam - [GitHub](https://github.com/salmamuzam) | [LinkedIn](https://linkedin.com/in/fathimasalmamuzam)
+- Fathima Salma Muzammil - [GitHub](https://github.com/salmamuzam) | [LinkedIn](https://linkedin.com/in/fathimasalmamuzam)
 
 ## License
 
 This project is licensed under the MIT License.
-
-**MIT License**
-
-Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
-
-What you can do with this project:
-- Use for personal or commercial projects
-- Modify and distribute the code
-- Use as a learning resource
-
-For help choosing a license, visit: https://choosealicense.com/
 
 **Note:** Recipe content is credited to Mary Berry and BBC Food. Please keep this credit when using the recipe content.
 
