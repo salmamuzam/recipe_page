@@ -1,6 +1,6 @@
-# Simple Recipe Web Page
+# Recipe Page
 
-This is a small web project I made using only HTML. It shows a chicken lasagne recipe with ingredients, steps, and a picture of the dish.
+This is a small web project I made using only HTML. It shows a chicken lasagne recipe with ingredients, instructions, and a picture of the dish.
 
 I made this to learn how to use basic HTML tags the right way.
 
@@ -48,5 +48,5 @@ That’s it!
 
 ## Credits
 
-- Made by [Your Name]  
+- Made by Fathima Salma Muzammil  
 - Inspired by the FreeCodeCamp recipe project
