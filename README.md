@@ -1,24 +1,24 @@
 # Chicken Lasagne Recipe Page
 
-A simple, elegant HTML recipe page showcasing a delicious Chicken Lasagne recipe built as part of the freeCodeCamp curriculum.
+A simple, elegant HTML recipe page showcasing a delicious Chicken Lasagne recipe that I built as part of the freeCodeCamp curriculum.
 
 ## Project Description
 
 This project is a static recipe page that presents a complete Chicken Lasagne recipe with ingredients and step-by-step instructions. 
 
-**What the application does:**
+**What my application does:**
 
-This recipe page displays a well-structured cooking guide that includes an introduction to the dish, a beautiful image of the finished meal, organized ingredient lists separated by preparation stage (chicken mixture, sauce, and assembly), and detailed step-by-step cooking instructions with proper attribution to the original source.
+My recipe page displays a well-structured cooking guide that includes an introduction to the dish, a beautiful image of the finished meal, organized ingredient lists separated by preparation stage (chicken mixture, sauce, and assembly), and detailed step-by-step cooking instructions with proper credit to the original source.
 
-**Why the project used the technologies:**
+**Why I used these technologies:**
 
-I used pure HTML5 to focus on mastering semantic structure and proper document markup. Inline CSS was chosen for quick styling implementation while keeping the project simple and centered on HTML fundamentals. No JavaScript was needed since a recipe page is static content that doesn't require interactivity, making it perfect for practicing HTML-only development.
+I used pure HTML5 to focus on learning semantic structure and proper document markup. I chose inline CSS for quick styling to keep the project simple and focused on HTML basics. I didn't need JavaScript since a recipe page is static content that doesn't require interactivity, making it perfect for practicing HTML-only development.
 
-**Some of the challenges you faced and features you hope to implement in the future:**
+**Challenges I faced and features I hope to add in the future:**
 
-The main challenges I faced were organizing multiple ingredient sections in a logical, readable format while meeting all 21 freeCodeCamp test requirements and balancing visual appeal with semantic HTML structure.
+The main challenges I faced were organizing multiple ingredient sections in a clear, easy-to-read format while meeting all 21 freeCodeCamp test requirements and balancing visual appeal with semantic HTML structure.
 
-Features I hope to implement in the future include adding an external CSS stylesheet for better style organization, creating a print-friendly layout for easy recipe printing, including recipe metadata like prep time and servings, adding a nutritional information calculator, implementing a user rating and comments section, and creating a recipe scaling calculator for different serving sizes.
+In the future, I hope to add an external CSS stylesheet for better style organization, create a print-friendly layout for easy recipe printing, include recipe details like prep time and servings, add a nutritional information calculator, add a user rating and comments section, and create a recipe scaling calculator for different serving sizes.
 
 ## Table of Contents
 
@@ -31,14 +31,14 @@ Features I hope to implement in the future include adding an external CSS styles
 
 ## How to Install and Run the Project
 
-This is a static HTML page that requires no installation or dependencies.
+This is a static HTML page that doesn't need any installation or dependencies.
 
 **Step 1:** Clone the repository
 ```bash
 git clone https://github.com/salmamuzam/recipe-page.git
 ```
 
-**Step 2:** Navigate to the project directory
+**Step 2:** Go to the project folder
 ```bash
 cd recipe-page
 ```
@@ -48,30 +48,29 @@ cd recipe-page
 - Right-click and select "Open with Browser", or
 - Use a local development server like Live Server in VS Code
 
-**No dependencies, build tools, or package managers required!**
+**No dependencies, build tools, or package managers needed!**
 
 ## How to Use the Project
 
 Simply open the HTML file in any modern web browser to view the recipe page.
 
 **Instructions:**
-1. Open `index.html` in your preferred web browser
+1. Open `index.html` in your web browser
 2. Scroll through the page to view the complete recipe
-3. The page displays:
+3. The page shows:
    - Recipe title "Chicken Lasagne" with an introduction
    - A photograph of the finished dish
    - Three organized ingredient sections
    - Seven detailed cooking instruction steps
    - Recipe credit and link to original source
 
-**Examples of use:**
+**What you can use this for:**
 - Learning HTML document structure
 - Understanding semantic HTML elements
 - Creating your own recipe pages
-- Portfolio project demonstration
 - Teaching HTML basics to beginners
 
-**Visual aids:**
+**Screenshot:**
 
 ![Recipe Page Screenshot](https://github.com/user-attachments/assets/bafec3c5-e063-4bb1-9083-30357157be6f)
 
@@ -85,7 +84,7 @@ Simply open the HTML file in any modern web browser to view the recipe page.
 - freeCodeCamp - Project Requirements and Testing Suite
 
 **Developer:**
-- Salma Muzam - [GitHub](https://github.com/salmamuzam) | [LinkedIn](https://linkedin.com/in/salmamuzam)
+- Salma Muzam - [GitHub](https://github.com/salmamuzam) | [LinkedIn](https://linkedin.com/in/fathimasalmamuzam)
 
 ## License
 
@@ -93,7 +92,7 @@ This project is licensed under the MIT License.
 
 **MIT License**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 
 What you can do with this project:
 - Use for personal or commercial projects
@@ -102,7 +101,7 @@ What you can do with this project:
 
 For help choosing a license, visit: https://choosealicense.com/
 
-**Note:** Recipe content is attributed to Mary Berry and BBC Food. Please maintain attribution when using recipe content.
+**Note:** Recipe content is credited to Mary Berry and BBC Food. Please keep this credit when using the recipe content.
 
 ## Badges
 
@@ -150,4 +149,4 @@ Press `Ctrl + Enter` in the freeCodeCamp learning environment to run the test su
 <img src="https://example.com/image.jpg" alt="Chicken lasagne" />
 ```
 
-This shows confidence that the project works without any challenges and meets all the required specifications.
+This shows that my project works without any problems and meets all the required specifications.
