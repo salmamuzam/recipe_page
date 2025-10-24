@@ -27,7 +27,6 @@ Features I hope to implement in the future include adding an external CSS styles
 - [Credits](#credits)
 - [License](#license)
 - [Badges](#badges)
-- [How to Contribute to the Project](#how-to-contribute-to-the-project)
 - [Tests](#tests)
 
 ## How to Install and Run the Project
@@ -36,7 +35,7 @@ This is a static HTML page that requires no installation or dependencies.
 
 **Step 1:** Clone the repository
 ```bash
-git clone https://github.com/yourusername/recipe-page.git
+git clone https://github.com/salmamuzam/recipe-page.git
 ```
 
 **Step 2:** Navigate to the project directory
@@ -73,10 +72,8 @@ Simply open the HTML file in any modern web browser to view the recipe page.
 - Teaching HTML basics to beginners
 
 **Visual aids:**
-```
-<img width="1202" height="696" alt="image" src="https://github.com/user-attachments/assets/bafec3c5-e063-4bb1-9083-30357157be6f" />
 
-```
+![Recipe Page Screenshot](https://github.com/user-attachments/assets/bafec3c5-e063-4bb1-9083-30357157be6f)
 
 ## Credits
 
@@ -88,7 +85,7 @@ Simply open the HTML file in any modern web browser to view the recipe page.
 - freeCodeCamp - Project Requirements and Testing Suite
 
 **Developer:**
-- Your Name - [GitHub](https://github.com/salmamuzam) | [LinkedIn](https://linkedin.com/salmamuzam)
+- Salma Muzam - [GitHub](https://github.com/salmamuzam) | [LinkedIn](https://linkedin.com/in/salmamuzam)
 
 ## License
 
@@ -112,31 +109,6 @@ For help choosing a license, visit: https://choosealicense.com/
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-
-## How to Contribute to the Project
-
-Contributions are welcome! This is a beginner-friendly project perfect for first-time contributors.
-
-**Guidelines:**
-
-1. Fork the repository
-2. Clone your fork to your local machine
-3. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`)
-4. Make your changes
-5. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-6. Push to the branch (`git push origin feature/AmazingFeature`)
-7. Open a Pull Request
-
-**Contribution ideas:**
-- Add more recipes
-- Implement external CSS
-- Add responsive design improvements
-- Create a recipe gallery
-- Improve accessibility features
-
-**Important:** Make sure your contributions follow the existing code style and include proper documentation. This project follows the Contributor Covenant Code of Conduct.
-
-For more information on contributing guidelines, check out the [Contributor Covenant](https://www.contributor-covenant.org/) and [Contributing Guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 
 ## Tests
 
